@@ -6,6 +6,7 @@ nav {
   background-color: var(--primary-color);
   justify-content: space-between;
   align-items: center;
+  padding-left:10px;
 }
 
 nav img {
