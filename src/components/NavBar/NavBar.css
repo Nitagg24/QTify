@@ -1,11 +1,18 @@
 nav {
-  background-color: var(--primary-color);
-  width: 100%;
   display: flex;
-  align-items: center;
+  width: 100vw;
+  height: 74px;
+  flex-shrink: 0;
+  background-color: var(--primary-color);
   justify-content: space-between;
-  height: 70px;
-  padding: 0px 10px;
+  align-items: center;
+}
+
+nav img {
+  margin-left: 10px;
+  display: block;
+  height: auto;
+  max-height: 100%;
 }
 
 nav button {
