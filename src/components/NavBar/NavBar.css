@@ -6,11 +6,11 @@ nav {
   background-color: var(--primary-color);
   justify-content: space-between;
   align-items: center;
-  vertical-align: middle;
 }
 
 nav img {
   margin-left: 10px;
+  vertical-align: middle;
 }
 
 nav button {
