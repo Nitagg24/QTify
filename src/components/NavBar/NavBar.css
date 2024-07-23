@@ -5,11 +5,11 @@ nav {
   flex-shrink: 0;
   background-color: var(--primary-color);
   justify-content: space-between;
-  align-items: center; /* This ensures vertical centering */
+  align-items: center; 
 }
 
 nav img {
-  margin-left: 10px; /* This ensures space to the left */
+  margin-left: 32px;
 }
 
 nav button {
