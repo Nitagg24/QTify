@@ -9,7 +9,7 @@ nav {
 }
 
 nav img {
-  margin-left: 10px;
+  padding-left: 10px;
   display: block;
   height: auto;
   max-height: 100%;
